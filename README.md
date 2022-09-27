@@ -1,4 +1,5 @@
 # Election
 
-Run truffle migrate
-Run npm run dev
+1) Run truffle migrate
+
+2) Run npm run dev
